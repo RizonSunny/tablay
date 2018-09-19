@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "65518542908",
+    "firebase_url": "https://tablay-616df.firebaseio.com",
+    "project_id": "tablay-616df",
+    "storage_bucket": "tablay-616df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65518542908:android:d9fb54810ce442eb",
+        "android_client_info": {
+          "package_name": "com.example.asus.tablay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65518542908-3shca2ggpq196em7n1pngmhhtfctr2gl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.tablay",
+            "certificate_hash": "72b305a9f94f05d450c00b4d141ee76bdd3fea90"
+          }
+        },
+        {
+          "client_id": "65518542908-4l6jhtgsi4hn7qngav72jced25fe3jer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc8HNBo9WVACdpx7Ih3OIstNNdBSdNML4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65518542908-4l6jhtgsi4hn7qngav72jced25fe3jer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
